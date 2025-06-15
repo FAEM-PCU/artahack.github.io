@@ -1,5 +1,5 @@
 ---
-name: Qiyun Ga0
+name: Qiyun Gao
 occupation: 
 
 links:
