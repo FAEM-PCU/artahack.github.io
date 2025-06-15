@@ -1,5 +1,5 @@
 ---
-name:
+name: Ava Auffret
 occupation: 
 
 links:
