@@ -1,9 +1,10 @@
 ---
 name: Qiyun Gao
-occupation: 
+occupation: Artist
+contact: qg2054@nyu.edu
 
 links:
- - icon     : 
-   url      : 
+ - icon     : Wesbite
+   url      : www.qiyunqgao.com
 ---
 
