@@ -7,7 +7,7 @@ links:
  - icon     : Website
    url      : Ava-Auffret.com
  - icon     : Instagram
-   url      : @Ava_auffret
+   url      : Ava_auffret
 
 ---
 
