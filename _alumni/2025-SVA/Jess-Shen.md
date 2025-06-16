@@ -1,7 +1,6 @@
 ---
 name: Jess Shen
 occupation: Creative Technologist
-contact: jcs9913@nyu.edu
 
 links:
  - icon     : Website
