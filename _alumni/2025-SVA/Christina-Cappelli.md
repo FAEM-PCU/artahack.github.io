@@ -1,6 +1,7 @@
 ---
 name: Christina Cappelli
 occupation: Creative Technologist
+contact: christinacapp130@gmail.com
 
 links:
  - icon     : instagram
