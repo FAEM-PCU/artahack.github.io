@@ -1,7 +1,6 @@
 ---
 name: Irene Liang
 occupation: Artist
-contact: sl11551@nyu.edu
 
 links:
  - icon     : Website
