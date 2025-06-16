@@ -1,9 +1,10 @@
 ---
 name: Antonius Wiriadjaja
-occupation: 
+occupation: Artist
+contact: hi@antoni.us
 
 links:
- - icon     : 
-   url      : 
+ - icon     : Website
+   url      : https://antoni.us/
 ---
 
