@@ -1,7 +1,6 @@
 ---
 name: Marzena Milowska
 occupation: Vfx & AI Artist
-contact: mmilowska@sva.edu
 
 links:
  - icon     : Website
