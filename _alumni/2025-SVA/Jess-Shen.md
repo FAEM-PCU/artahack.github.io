@@ -1,10 +1,13 @@
 ---
 name: Jess Shen
-occupation: 
+occupation: Creative Technologist
+contact: jcs9913@nyu.edu
 
 links:
- - icon     : 
-   url      : 
+ - icon     : Website
+   url      : https://jessmakes.art/
+ - icon     : Instagram
+   url      : jessmakes.jpg
 ---
 
 
