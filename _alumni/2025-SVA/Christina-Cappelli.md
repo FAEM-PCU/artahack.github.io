@@ -4,10 +4,10 @@ occupation: Creative Technologist
 contact: christinacapp130@gmail.com
 
 links:
- - icon     : instagram
-   url      : https://www.instagram.com/whatschrisdoingnow/
- - icon     : website
+ - icon     : Website
    url      : https://christinacappelli.com/
+ - icon     : Instagram
+   url      : https://www.instagram.com/whatschrisdoingnow/
 ---
 
 
