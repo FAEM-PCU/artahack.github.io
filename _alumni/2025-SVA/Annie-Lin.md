@@ -1,8 +1,10 @@
 ---
 name: Annie Lin
-occupation: 
+occupation: Creative Technologist
+contact: ann.yhl@berkeley.edu
 
 links:
- - icon     : 
-   url      : 
+ - icon     : Website
+   url      : https://www.annielin.xyz/
+   
 ---
