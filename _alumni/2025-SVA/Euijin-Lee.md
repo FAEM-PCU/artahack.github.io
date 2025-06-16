@@ -1,7 +1,6 @@
 ---
 name: Euijin Lee
 occupation: Designer, Artist
-contact: leeeuijinn@gmail.com
 
 links:
  - icon     : Website
