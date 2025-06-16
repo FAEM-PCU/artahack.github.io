@@ -1,7 +1,6 @@
 ---
 name: Jonah Brucker-Cohen
 occupation: Artist / Designer / Professor
-contact: jonah@coin-operated.com
 
 links:
  - icon     : Website
