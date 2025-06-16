@@ -1,9 +1,10 @@
 ---
 name: Ava Auffret
-occupation: 
+occupation: Designer, Dancer
+contact: ava.carlisle@gmail.com
 
 links:
- - icon     : 
-   url      : 
+ - icon     : Website
+   url      : Ava-Auffret.com
 ---
 
