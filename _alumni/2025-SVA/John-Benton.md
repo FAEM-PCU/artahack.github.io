@@ -1,8 +1,11 @@
 ---
 name: John Benton
-occupation: 
+occupation: Artist / Professor
+contact: jbenton@sva.edu
 
 links:
- - icon     : 
-   url      : 
+ - icon     : Website
+   url      : https://johnbenton.tv/
+ - icon     : Instagram
+   url      : bentonjohn
 ---
