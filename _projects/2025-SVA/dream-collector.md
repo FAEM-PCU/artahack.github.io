@@ -17,28 +17,35 @@ members:
 ---
 *Dream Collector* is a website and installation for users to visualize their dreams with AI. 
 
-<figure>
-  <images/projects/2025-SVA/dream-collector/web app.png" alt="web-application_image" />
-  <figcaption>web-application</figcaption>
-</figure>
+Explorations:
+- Practice of dream journaling 
+- Visualizing  fragments of dreams
+- Visualizing collective dreams
 
----- ADD MORE ABOUT THE PROJECT ------
-
-<figure>
-  <img src="/images/projects/2023-warsawai/on-the-existence-of-self-identity/god1.jpg" alt="One of the deities generated from a customized StyleGAN image data bank" />
-  <figcaption>One of the deities generated from a customized StyleGAN image data bank</figcaption>
-</figure>
-
----- ADD MORE ABOUT THE PROJECT ------
 
 <figure>
-  <img src="/images/projects/2023-warsawai/on-the-existence-of-self-identity/god2.jpg" alt="One of the deities generated from a customized StyleGAN image data bank" />
-  <figcaption>One of the deities generated from a customized StyleGAN image data bank</figcaption>
+  <img src="/images/projects/2025-SVA/dream-collector/web app.png" alt="image of the web app interface" />
+  <figcaption>Image of the web app interface. </figcaption>
 </figure>
 
-<figure class="video">
-	<iframe width="1268" height="713" src="https://www.youtube.com/embed/9tVpdBtmH_g" title="On the existence of self-identity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figure>
+  <img src="/images/projects/2025-SVA/dream-collector/web-app-present.jpg" alt="web-app sample 02" />
 </figure>
-<br />
 
-Art-A-Hack™ ’23 AI Art In A Time of War was supported by the [University of Warsaw Faculty of Mathematics, Informatics and Mechanics](https://www.mimuw.edu.pl/en) and [Fulbright Poland](https://fulbright.edu.pl/home/) 
+Mechanics: 
+1. Web Application
+- The user enters the Dream Collector website interface
+- Types in 3 fragments of memory to recollect the most recent dream
+- Integration of OpenAI API ( using DALL-E ) generates 3 images to represent the memory fragement along with a short story of memory interpretation. 
+- Images of people’s dreams are stored locally
+
+2. Interactive Visualizer 
+- Visualization of the most recent dreams generated through TouchDesigner
+- Use gesture control to reveal your dreams and to explore the dreams of others (media pipe)
+
+<figure>
+  <img src="/images/projects/2025-SVA/dream-collector/touch-interaction.png" alt="TD sample 00" />
+  <figcaption>TouchDesigner Example 00</figcaption>
+</figure>
+
+Art-A-Hack™ ’25 AI Art In A Time of Shifting Perspectives was supported by the [School of Visual Arts, MFA Computer Arts](https://sva.edu/)
