@@ -18,8 +18,8 @@ members:
 *Dream Collector* is a website and installation for users to visualize their dreams with AI. 
 
 <figure>
-  ( REPLACE WITH OUR IMAGE ) <img src="/images/projects/2023-warsawai/on-the-existence-of-self-identity/faces.jpg" alt="Participants left to right: Beata Bajno, Eryk Imos, Paulina Wachnicka and Kamil Białaszek" />
-  <figcaption>Participants left to right: Beata Bajno, Eryk Imos, Paulina Wachnicka and Kamil Białaszek</figcaption>
+  <images/projects/2025-SVA/dream-collector/web app.png" alt="web-application_image" />
+  <figcaption>web-application</figcaption>
 </figure>
 
 ---- ADD MORE ABOUT THE PROJECT ------
