@@ -45,7 +45,8 @@ Mechanics:
 
 <figure>
   <img src="/images/projects/2025-SVA/dream-collector/touch-interaction.png" alt="TD sample 00" />
-  <figcaption>TouchDesigner Example 00</figcaption>
+  <figcaption>TouchDesigner Example</figcaption>
 </figure>
 
-Art-A-Hack™ ’25 AI Art In A Time of Shifting Perspectives was supported by the [School of Visual Arts, MFA Computer Arts](https://sva.edu/)
+Art-A-Hack (TM) ’25 AI Art In A Time of Shifting Perspectives was supported by the [School of Visual Arts Graduate Center, NY] (https://sva.edu/)
+
