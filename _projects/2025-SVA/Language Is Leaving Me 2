@@ -1,1 +1,45 @@
+---
+title       : Language Is Leaving Me 2/Too
+teaser      : An AI Opera Of The Skin
+image       : /images/projects/2023-warsawai/language-is-leaving-me/language-is-leaving-me.jpg
 
+members:
+ - name     : Ellen Pearlman
+   lead     : true
+ - name     : Qiyun (Q) Gao
+ - name     : Antonius Wiriadjaja
+---
+
+*Language Is Leaving Me 2/Too* LILM 2/Too is a biometric AI cinematic interactive multi-lingual visual and sonic performance-in-process that reveals how epigenetic, or inherited traumatic memories are input, rendered, interpreted and displayed by different visual and verbal interpretative AI algorithms across multiple transformative platforms. It builds upon “Language Is Leaving Me” (1) the world’s first multi-lingual AI cinematic biometric performance.
+
+Beginning with a simple AI drawing, meaning those of a very young child depicting a traumatic memory, the drawing is transformed into an AI photo, then an AI movie and finally an AI 3D Gaussian splat. This four day hack focused on bringing the  3D AI Gaussian splats into different interactive programs as an audio-reactive visual driven by  a16- sensor biometric Emotibit device, powered by a multi-lingual RAVE and MaxMsp patch.
+
+This  proof of concept sets up the foundation for an immersive and participatory story  environment where a performer interacts with the transformation of memory through biometric and artificial intelligence algorithmic rendering. 
+
+  <img src="/images/projects/2023-warsawai/language-is-leaving-me/movie.jpg" alt="AI generated images from the same prompt in different languages" />
+  <figcaption>A 3D Audio Reactive Gaussian Splat created from an AI drawing to an AI Photo to an AI Movie using an English language to Tamil language audio encoder RAVE/Max patch with an Emotibit biometric sensor</figcaption>
+</figure>
+
+It deploys AI based visual and sonic environments co-driven by non-invasive biometric sensors strategically placed on a human participant to modulate multi-tiered scenes of epigenetic memories of cultures of diaspora embedded deep within the human biological corpus. Using films of a narrated traumatic memory as its source training material, images are run through both the image to image and text to image algorithms of Stable Diffusion. The setup uses the Automatic1111 interface and is hosted on a private server, equipped with a high-end GPU and connected to a research network. Diasporic memories compare and contrast with contemporary image bank representations splintered apart from their original context. Using linguistic scripts in Yiddish, Mandarin, Tamil, and Xhosa these prompts algorithmically tagged and fed into Stable Diffusion’s algorithms. This interrogation of probability matches produces a type of system aphasia misrepresenting and distorting English language-based visuals of psychological and biological based epigenetic wounding.
+
+<figure>
+  <img src="/images/projects/2023-warsawai/language-is-leaving-me/InstallationView.jpg" alt="Simple view of the installation" />
+  <figcaption>Simple view of the installation</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/projects/2023-warsawai/language-is-leaving-me/EletrodesArm1.jpeg" alt="Electrodes collecting EMG signal from arm muscles" />
+  <figcaption>Electrodes collecting EMG signal from arm muscles</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/projects/2023-warsawai/language-is-leaving-me/G3B.jpeg" alt="View of TouchDesigner project controlling the installation" />
+  <figcaption>View of TouchDesigner project controlling the installation</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/projects/2023-warsawai/language-is-leaving-me/ZofiaSefaWiktorTomacz.jpg" alt="Zofia Mizgalewicz, Sefa Sagir, Wiktor Kraśnicki and Tomasz Grzymała together in class" />
+  <figcaption>From left: Zofia Mizgalewicz, Sefa Sagir, Wiktor Kraśnicki and Tomasz Grzymała together in class</figcaption>
+</figure>
+
+Art-A-Hack™ ’23 AI Art In A Time of War was supported by the [University of Warsaw Faculty of Mathematics, Informatics and Mechanics](https://www.mimuw.edu.pl/en) and [Fulbright Poland](https://fulbright.edu.pl/home/) 
