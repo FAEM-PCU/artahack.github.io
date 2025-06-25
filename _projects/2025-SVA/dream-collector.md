@@ -1,7 +1,7 @@
 ---
 title       : Dream Collector
 teaser      : TBD
-image       : /images/projects/2023-warsawai/on-the-existence-of-self-identity/on-the-existence-of-self-identity.jpg ( REPLACE WITH OUR IMAGE ) 
+image       : /images/projects/2025-SVA/dream-collector/
 
 facilitators:
  - name     : Rochele	Gloor
