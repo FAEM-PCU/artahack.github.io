@@ -16,6 +16,11 @@ Beginning with a simple AI drawing, meaning those of a very young child depictin
 
 This  proof of concept sets up the foundation for an immersive and participatory story  environment where a performer interacts with the transformation of memory through biometric and artificial intelligence algorithmic rendering. 
 
+<figure class="video ratio-55 with-caption">
+  <iframe src="https://www.youtube.com/watch?v=KcoVfU54Bu0" allowfullscreen></iframe>
+  <figcaption> A 3D Audio Reactive Gaussian Splat created from an AI drawing to an AI Photo to an AI Movie using an English language to Tamil language audio encoder RAVE/Max patch with an Emotibit biometric sensor </figcaption>
+</figure>
+
 <figure>
   <img src="/images/projects/2025-SVA/language-is-leaving-me-2/StillImageForAAH_1.jpg"/>
   <figcaption>AI Audio Reactive 3D Gaussian splat in Unreal Engine</figcaption>
