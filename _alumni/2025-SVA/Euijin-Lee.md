@@ -1,11 +1,13 @@
 ---
 name: Euijin Lee
 occupation: Designer, Artist
+edition: 2025-sva
+alumid: Euijin-Lee
 
 links:
- - icon     : Website
-   url      : www.leeeuijin.com
- - icon     : Instagram
-   url      : leeeuij
+ - icon     : globe
+   url      : https://leeeuijin.com/
+ - icon     : instagram
+   url      : https://www.instagram.com/leeeuij/
 ---
 

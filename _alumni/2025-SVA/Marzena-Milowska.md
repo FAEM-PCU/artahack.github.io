@@ -1,11 +1,12 @@
 ---
 name: Marzena Milowska
 occupation: Vfx & AI Artist
+edition: 2025-sva
+alumid: Marzena-Milowska
 
 links:
- - icon     : Website
+ - icon     : globe
    url      : https://www.marzenamilowska.co.uk/
- - icon     : Instagram
-   url      : marzenamilowska2.0
+
 ---
 

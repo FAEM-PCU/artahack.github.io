@@ -1,9 +1,11 @@
 ---
 name: Qiyun Gao
 occupation: Artist
+edition: 2025-sva
+alumid: Qiyun-Gao
 
 links:
- - icon     : Wesbite
-   url      : www.qiyunqgao.com
+ - icon     : globe
+   url      : https://qiyunqgao.com/
 ---
 

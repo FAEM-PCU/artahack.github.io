@@ -1,12 +1,13 @@
 ---
 name: Irene Liang
 occupation: Artist
+edition: 2025-sva
+alumid: Irene-Liang
 
 links:
- - icon     : Website
+ - icon     : globe
    url      : https://ireneliangart.myportfolio.com/
- - icon     : Linkedin
-   url      : http://www.linkedin.com/in/irene-liang-b285a4336
+
 ---
 
 

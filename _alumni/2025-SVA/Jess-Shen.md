@@ -1,12 +1,15 @@
 ---
 name: Jess Shen
 occupation: Creative Technologist
+edition: 2025-sva
+alumid: Jess-Shen
 
 links:
- - icon     : Website
+ - icon     : Websglobeite
    url      : https://jessmakes.art/
- - icon     : Instagram
-   url      : jessmakes.jpg
+ - icon     : instagram
+   url      : https://www.instagram.com/jessmakes/
+
 ---
 
 

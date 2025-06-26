@@ -1,14 +1,16 @@
 ---
 name: Rochele Gloor
 occupation: Emergent Technologies Artist
+edition: 2025-sva
+alumid: Rochele-Gloor
 
 links:
- - icon     : Website
+ - icon     : globe
    url      : https://www.rgloor.com/en
- - icon     : Instagram
-   url      : rgloorlab
- - icon     : Linkedin
-   url      : rochele-gloor
+ - icon     : instagram
+   url      : https://www.instagram.com/rgloorlab
+ - icon     : linkedin
+   url      : https://www.linkedin.com/in/rochele-gloor
 ---
 
 
