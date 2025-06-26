@@ -1,6 +1,6 @@
 ---
 title       : Dream Collector
-teaser      : Dream Collector
+teaser      : AI-Generated Dreamscapes
 image       : /images/projects/2025-SVA/dream-collector/
 
 facilitators:
