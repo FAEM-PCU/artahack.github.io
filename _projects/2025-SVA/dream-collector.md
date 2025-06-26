@@ -1,6 +1,6 @@
 ---
 title       : Dream Collector
-teaser      : TBD
+teaser      : Dream Collector
 image       : /images/projects/2025-SVA/dream-collector/
 
 facilitators:
@@ -11,8 +11,8 @@ facilitators:
 members:
  - name     : Christina Cappelli
  - name     : Euijin Lee
+ - name     : Juinqe Lynn
  - name     : Jess Shen
- - name     : Junqi	Zhang
  - name     : Latif Tahfimul
 ---
 *Dream Collector* 
