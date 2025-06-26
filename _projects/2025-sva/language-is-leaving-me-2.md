@@ -2,6 +2,7 @@
 title       : Language Is Leaving Me 2/Too
 teaser      : An AI Opera Of The Skin
 image       : /images/projects/2025-sva/language-is-leaving-me-2/LILM_Project_CallOut.png
+edition     : 2025-sva
 
 members:
  - name     : Ellen Pearlman

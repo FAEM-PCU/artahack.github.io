@@ -1,17 +1,16 @@
 ---
 title       : Dream Collector
 teaser      : AI-Generated Dreamscapes
-image       : /images/projects/2025-SVA/dream-collector/
+image       : /images/projects/2025-sva/dream-collector/dream-collector.jpg
+edition     : 2025-sva
 
-facilitators:
- - name     : Rochele	Gloor
- - name     : John Benton
- - name     : Jonah	Bucker-Cohen
-   
 members:
+ - name     : John Benton
+ - name     : Rochele Gloor
+ - name     : Jonah Brucker-Cohen
  - name     : Christina Cappelli
  - name     : Euijin Lee
- - name     : Juinqe Lynn
+ - name     : Junqi Zhang
  - name     : Jess Shen
  - name     : Latif Tahfimul
 ---
@@ -42,7 +41,7 @@ Mediapipe x Touchdesigner Interaction
 - Paintbrush to reveal dreams - hand 1 ( distance between pointer finger and thumb)
 - both hands up and spread to clear "painting"
 - Thumbs up = move forward through dream images
-- Thumbs up = move backwards through dream images
+- Thumbs down = move backwards through dream images
 
 <figure>
   <img src="/images/projects/2025-SVA/dream-collector/TD-interaction.png" />
