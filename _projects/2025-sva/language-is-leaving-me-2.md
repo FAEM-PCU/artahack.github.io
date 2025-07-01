@@ -41,4 +41,4 @@ This  proof of concept sets up the foundation for an immersive and participatory
   <figcaption>A flowchart of OSC signals and routing of information</figcaption>
 </figure>
 
-Art-A-Hack (TM) ’25 AI Art In A Time of Shifting Perspectives was supported by the [School of Visual Arts Graduate Center, NY](https://sva.edu/academics/graduate/graduate-center) 
+Art-A-Hack (TM) ’25 AI Art In A Time of Shifting Perspectives was supported by the School of Visual Arts Graduate Center and the MFA Computer Arts, NY (https://sva.edu/academics/graduate/graduate-center) 
